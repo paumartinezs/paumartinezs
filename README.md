@@ -5,7 +5,7 @@ Aquí aniré publicant les tasques individuals del curs,
 
 ## 🙋‍♂️ Sobre mi
 
-- 🔭 I’m currently working on: **Els projectes i activitats del meu Grau de sistemes microinformatics i xarxes**
+- 🔭 I’m currently working on: **Els projectes i activitats del meu grau de sistemes microinformatics i xarxes**
 - 🌱 I’m currently learning: **Estic estudiant un grau de sistemes microinformatics i xarxes**
 - 👯 I’m looking to collaborate on: **Projectes educatius i de programació**
 - 🤔 I’m looking for help with: **Millorar les meves habilitats amb GitHub**
