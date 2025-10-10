@@ -1,4 +1,4 @@
-# 👋 Hola, sóc el Pau, benvingut/da al meu repertori. 
+# 👋 Hola, soc el Pau, benvingut/da al meu repertori. 
 
 Benvingut/da al meu repositori Projece2_EverPIA.  
 Aquí aniré publicant les tasques individuals del curs,
