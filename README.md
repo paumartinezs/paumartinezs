@@ -5,12 +5,18 @@ Aquí aniré publicant les tasques individuals del curs,
 
 ## 🙋‍♂️ Sobre mi
 
-- 🔭 I’m currently working on: **Els projectes i activitats del meu grau de sistemes microinformatics i xarxes**
-- 🌱 I’m currently learning: **Estic estudiant un grau de sistemes microinformatics i xarxes**
-- 👯 I’m looking to collaborate on: **Projectes educatius i de programació**
-- 🤔 I’m looking for help with: **Millorar les meves habilitats amb GitHub**
-- 💬 Ask me about: **GitHub i conceptes bàsics de programació**
-- 📫 How to reach me: **Alu.pau.martinez@mataro.epiaedu.cat**
+- Actualment estic treballant en: Els projectes i activitats del meu grau de sistemes microinformàtics i xarxes
+
+- Actualment estic aprenent: Estic estudiant un grau de sistemes microinformàtics i xarxes
+
+- Busco col·laborar en: Projectes educatius i de programació
+
+- Necessito ajuda amb: Millorar les meves habilitats amb GitHub
+
+- Pots preguntar-me sobre: GitHub i conceptes bàsics de programació
+
+- Pots contactar amb mi a: Alu.pau.martinez@mataro.epiaedu.cat
   
 
-✨ Gràcies per visitar aquest repositori! ✨
+
+✨ ***Gràcies per visitar aquest repositori!*** ✨
