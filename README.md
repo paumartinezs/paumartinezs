@@ -15,7 +15,7 @@ Aquí aniré publicant les tasques individuals del curs,
 
 - Pots preguntar-me sobre: GitHub i conceptes bàsics de programació
 
-- Pots contactar amb mi a: Alu.pau.martinez@mataro.epiaedu.cat
+- Pots contactar amb mi a: pmartinezsierra08@gmail.com
   
 
 
