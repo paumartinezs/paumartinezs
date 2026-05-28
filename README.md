@@ -1,6 +1,6 @@
 # 👋 Hola, soc el Pau, benvingut/da al meu repertori. 
 
-Benvingut/da al meu repositori Projece2_EverPIA.  
+Benvingut/da al meu repositori.  
 Aquí aniré publicant les tasques individuals del curs,
 
 ## 🙋‍♂️ Sobre mi
@@ -12,8 +12,6 @@ Aquí aniré publicant les tasques individuals del curs,
 - Busco col·laborar en: Projectes educatius i de programació
 
 - Necessito ajuda amb: Millorar les meves habilitats amb GitHub
-
-- Pots preguntar-me sobre: GitHub i conceptes bàsics de programació
 
 - Pots contactar amb mi a: pmartinezsierra08@gmail.com
   
