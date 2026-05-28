@@ -7,7 +7,7 @@
 
 ## Sobre mi
 
-Sóc un tècnic en formació, treballador i amb una actitud proactiva davant els reptes tecnològics. Em caracteritzo per la meva puntualitat, la capacitat d'adaptació a diferents entorns laborals i el meu ferm compromís amb la qualitat en cada tasca que realitzo.
+Sóc un tècnic en formació, treballador i amb una actitud proactiva davant els reptes tecnològics. Em caracteritzo meva la capacitat d'adaptació a diferents entorns laborals i el meu ferm compromís amb la qualitat en cada tasca que realitzo.
 
 
 ## Formació Acadèmica
