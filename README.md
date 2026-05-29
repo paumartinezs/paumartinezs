@@ -1,9 +1,7 @@
 # 👋  Hola! Sóc en Pau Martinez Sierra
 ---
 
- 📍 **Arenys de mar / Barcelona**
- 
- 📅 **25/12/2008**
+Benvingut/da al meu repositori. En aquest espai recolliré les tasques i projectes pràctics que realitzo durant el meu aprenentatge en l'àmbit de la informàtica i les xarxes
 
 ## Sobre mi
 
